@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="SWobSzjGXZ1coKkqmKQ2">
-    <mxGraphModel dx="2162" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2054" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,22 +109,22 @@
           <mxGeometry height="30" width="30" x="100" y="730" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="270" width="240" x="520" y="520" as="geometry" />
+          <mxGeometry height="280" width="240" x="520" y="520" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" value="Monitor" vertex="1">
           <mxGeometry height="30" width="60" x="540" y="530" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="A light VLM&lt;div&gt;(with Geo CoT &amp;amp; Ling CoT)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="200" x="540" y="640" as="geometry" />
+          <mxGeometry height="40" width="200" x="540" y="645" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Next Sub Manip Task" vertex="1">
-          <mxGeometry height="40" width="130" x="540" y="580" as="geometry" />
+          <mxGeometry height="40" width="130" x="540" y="585" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RGB" vertex="1">
-          <mxGeometry height="40" width="60" x="680" y="580" as="geometry" />
+          <mxGeometry height="40" width="60" x="680" y="585" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="“Next task CAN/CANNOT be executed”&amp;nbsp;&lt;div&gt;(&amp;lt;ACT&amp;gt; / &amp;lt;REJ&amp;gt; &amp;amp; &amp;lt;REASON&amp;gt;)&lt;/div&gt;" vertex="1">
-          <mxGeometry height="65" width="200" x="540" y="705" as="geometry" />
+          <mxGeometry height="65" width="200" x="540" y="710" as="geometry" />
         </mxCell>
         <mxCell id="7Ym0Fd_QV1WrJOhFT2Ra-49" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;line-height: 170%;&quot;&gt;[1]&amp;nbsp;A Dual-System Vision-Language-Action Model for Rational Manipulation&lt;div&gt;[2]&amp;nbsp;Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens&lt;/div&gt;&lt;div&gt;[3]&amp;nbsp;DualCoT-VLA: Visual-Linguistic Chain of Thought via Parallel Reasoning for Vision-Language-Action Models&lt;/div&gt;&lt;div&gt;[4]&amp;nbsp;What Matters in Orchestrating Robot Policies: A Systematic Study of Hierarchical VLA Agents&lt;/div&gt;&lt;div&gt;[5]&amp;nbsp;VoLo: A Physical Orchestrator for Open-Vocabulary Long-Horizon Manipulation&lt;/div&gt;&lt;div&gt;[6]&amp;nbsp;OWMM-Agent: Open World Mobile Manipulation&amp;nbsp; With Multi-modal Agentic Data Synthesis&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="160" width="640" x="80" y="960" as="geometry" />
